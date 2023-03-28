@@ -1,0 +1,7 @@
+.custom-component {
+	display: none !important;
+}
+
+.cmui .custom-component {
+	display: block !important;
+}
